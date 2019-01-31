@@ -1,3 +1,19 @@
+const a = parseFloat(prompt("Enter A"));
+const b = parseFloat(prompt("Enter A"));
+const c = parseFloat(prompt("Enter A"));
+
+function sloveSquareEq(a, b, c) {
+    const discrim = function(a, b, c){
+        let res = b*b - 4*a*c;
+        return res
+    } 
+}
+
+const discriminant = sloveSquareEq(1,2,3);
+
+
+
+
 //let greatings="Hello!";
 //alert(greatings);
 
